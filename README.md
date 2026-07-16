@@ -51,7 +51,7 @@
 
 | Method | Button |
 |--------|--------|
-| **Pair Code 1** | <a href="https://pair-junex-code-5b6454f71d47.herokuapp.com/"><img src="https://img.shields.io/badge/Pair%20Code%20%231-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoSize=auto"/></a> |
+| **Pair Code 1** | <a href="https://pair-junex.onrender.com/"><img src="https://img.shields.io/badge/Pair%20Code%20%231-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoSize=auto"/></a> |
 | **Pair Code 2** | <a href="https://pairjune.xwolf.space/"><img src="https://img.shields.io/badge/Pair%20Code%20%232-FF8C00?style=for-the-badge&logo=whatsapp&logoColor=white&logoSize=auto"/></a> |
 | **QR Code** | <a href="https://pair-junex-code-5b6454f71d47.herokuapp.com/qr"><img src="https://img.shields.io/badge/QR%20Code-007BFF?style=for-the-badge&logo=whatsapp&logoColor=white&logoSize=auto"/></a> |
 
